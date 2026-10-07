@@ -11,3 +11,4 @@ Small, copy-pasteable web dev snippets (HTML, CSS, JavaScript).
 - [Visually hidden (screen reader only)](snippets/visually-hidden.md)
 - [Sticky footer](snippets/sticky-footer.md)
 - [fetch with async/await and error handling](snippets/fetch-json.md)
+- [Debounce](snippets/debounce.md)
