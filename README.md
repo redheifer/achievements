@@ -13,3 +13,4 @@ Small, copy-pasteable web dev snippets (HTML, CSS, JavaScript).
 - [fetch with async/await and error handling](snippets/fetch-json.md)
 - [Debounce](snippets/debounce.md)
 - [Throttle](snippets/throttle.md)
+- [Copy to clipboard](snippets/copy-to-clipboard.md)
