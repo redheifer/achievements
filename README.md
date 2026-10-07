@@ -12,3 +12,4 @@ Small, copy-pasteable web dev snippets (HTML, CSS, JavaScript).
 - [Sticky footer](snippets/sticky-footer.md)
 - [fetch with async/await and error handling](snippets/fetch-json.md)
 - [Debounce](snippets/debounce.md)
+- [Throttle](snippets/throttle.md)
